@@ -21,7 +21,7 @@ mux new projectname
 
 .tmuxinator/projectname.yml in this repo for example
 
-##Tmux with Vim
+##Vim with Node.js
 
 https://github.com/moll/vim-node
 
@@ -29,10 +29,10 @@ https://github.com/scrooloose/syntastic
 
 https://github.com/joyent/node/wiki/Vim-Plugins
 
+##Tmux with Vim
+
 https://github.com/benmills/vimux
 
-##Vim with Node.js
-
-Tmux pair programming extension
+##Tmux pair programming extension
 
 https://github.com/zolrath/wemux

@@ -34,12 +34,12 @@ https://github.com/scrooloose/syntastic
 For more, see Joyent wiki for autocomplete and etc.
 https://github.com/joyent/node/wiki/Vim-Plugins
 
-##Tmux with Vim
+####Tmux with Vim
 
 Send commands directly from vim to tmux:
 https://github.com/benmills/vimux
 
-##Tmux pair programming extension
+####Tmux pair programming extension
 
 Pair programming in the extreme, with different modes, 
 multi cursor editing:

@@ -42,5 +42,5 @@ https://github.com/benmills/vimux
 ##Tmux pair programming extension
 
 Pair programming in the extreme, with different modes, 
-multi cursor editing like Google Docs:
+multi cursor editing:
 https://github.com/zolrath/wemux
